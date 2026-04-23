@@ -1,1 +1,3 @@
-# CSC101-Asma-SP2026
+Name: Asma Iftikhar
+Course: CSC101
+Section: ELC-1A(electronic and computing)
